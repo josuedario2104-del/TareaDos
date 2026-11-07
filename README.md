@@ -40,6 +40,6 @@ Ejecución
 
 El proyecto contiene tres clases principales independientes para probar cada implementación: "MainEstatica", "MainCircular" y "MainDinamica".
 
-Autora
+Autor
 
 Josue Banuelos
